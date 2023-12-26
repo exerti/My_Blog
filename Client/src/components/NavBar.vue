@@ -14,7 +14,7 @@
       <el-menu-item index="1">
         <Search></Search>
       </el-menu-item>
-      <el-menu-item index="2">工具</el-menu-item>
+      <el-menu-item index="2">分类</el-menu-item>
       <el-menu-item index="3">留言板</el-menu-item>
       <el-menu-item index="4">时间轴</el-menu-item>
       <el-menu-item index="5">其他的</el-menu-item>
